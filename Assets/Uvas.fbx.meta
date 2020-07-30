@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: da7d4cc79462f9440ac14ed875fed8e1
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cilindro
+    100002: Esfera
+    100004: Esfera.001
+    100006: Esfera.002
+    100008: Esfera.003
+    100010: Esfera.004
+    100012: Esfera.005
+    100014: Esfera.006
+    100016: Esfera.007
+    100018: Esfera.008
+    100020: Esfera.009
+    100022: Esfera.010
+    100024: Esfera.011
+    100026: Esfera.012
+    100028: Esfera.013
+    100030: Esfera.014
+    100032: Esfera.015
+    100034: Esfera.016
+    100036: Esfera.017
+    100038: Esfera.018
+    100040: Esfera.019
+    100042: Esfera.020
+    100044: Esfera.021
+    100046: Esfera.022
+    100048: Esfera.023
+    100050: Esfera.024
+    100052: Esfera.025
+    100054: Esfera.026
+    100056: //RootNode
+    400000: Cilindro
+    400002: Esfera
+    400004: Esfera.001
+    400006: Esfera.002
+    400008: Esfera.003
+    400010: Esfera.004
+    400012: Esfera.005
+    400014: Esfera.006
+    400016: Esfera.007
+    400018: Esfera.008
+    400020: Esfera.009
+    400022: Esfera.010
+    400024: Esfera.011
+    400026: Esfera.012
+    400028: Esfera.013
+    400030: Esfera.014
+    400032: Esfera.015
+    400034: Esfera.016
+    400036: Esfera.017
+    400038: Esfera.018
+    400040: Esfera.019
+    400042: Esfera.020
+    400044: Esfera.021
+    400046: Esfera.022
+    400048: Esfera.023
+    400050: Esfera.024
+    400052: Esfera.025
+    400054: Esfera.026
+    400056: //RootNode
+    2100000: No Name
+    2300000: Cilindro
+    2300002: Esfera
+    2300004: Esfera.001
+    2300006: Esfera.002
+    2300008: Esfera.003
+    2300010: Esfera.004
+    2300012: Esfera.005
+    2300014: Esfera.006
+    2300016: Esfera.007
+    2300018: Esfera.008
+    2300020: Esfera.009
+    2300022: Esfera.010
+    2300024: Esfera.011
+    2300026: Esfera.012
+    2300028: Esfera.013
+    2300030: Esfera.014
+    2300032: Esfera.015
+    2300034: Esfera.016
+    2300036: Esfera.017
+    2300038: Esfera.018
+    2300040: Esfera.019
+    2300042: Esfera.020
+    2300044: Esfera.021
+    2300046: Esfera.022
+    2300048: Esfera.023
+    2300050: Esfera.024
+    2300052: Esfera.025
+    2300054: Esfera.026
+    3300000: Cilindro
+    3300002: Esfera
+    3300004: Esfera.001
+    3300006: Esfera.002
+    3300008: Esfera.003
+    3300010: Esfera.004
+    3300012: Esfera.005
+    3300014: Esfera.006
+    3300016: Esfera.007
+    3300018: Esfera.008
+    3300020: Esfera.009
+    3300022: Esfera.010
+    3300024: Esfera.011
+    3300026: Esfera.012
+    3300028: Esfera.013
+    3300030: Esfera.014
+    3300032: Esfera.015
+    3300034: Esfera.016
+    3300036: Esfera.017
+    3300038: Esfera.018
+    3300040: Esfera.019
+    3300042: Esfera.020
+    3300044: Esfera.021
+    3300046: Esfera.022
+    3300048: Esfera.023
+    3300050: Esfera.024
+    3300052: Esfera.025
+    3300054: Esfera.026
+    4300000: Esfera
+    4300002: Esfera.001
+    4300004: Esfera.002
+    4300006: Esfera.003
+    4300008: Esfera.004
+    4300010: Esfera.005
+    4300012: Esfera.006
+    4300014: Esfera.007
+    4300016: Esfera.008
+    4300018: Esfera.009
+    4300020: Esfera.010
+    4300022: Esfera.011
+    4300024: Esfera.012
+    4300026: Esfera.013
+    4300028: Esfera.014
+    4300030: Esfera.015
+    4300032: Esfera.016
+    4300034: Esfera.017
+    4300036: Esfera.018
+    4300038: Esfera.019
+    4300040: Esfera.020
+    4300042: Esfera.021
+    4300044: Esfera.022
+    4300046: Esfera.023
+    4300048: Cilindro
+    4300050: Esfera.025
+    4300052: Esfera.026
+    4300054: Esfera.024
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

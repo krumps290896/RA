@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="M_Universo" size="1.000000 0.826772" />
+    <ImageTarget name="M_Ogro" size="1.000000 0.837580" />
+    <ImageTarget name="M_Iglesia" size="1.000000 0.913345" />
+    <ImageTarget name="M_Erizo" size="1.000000 0.828250" />
+    <ImageTarget name="M_Arana" size="1.000000 0.826923" />
+    <ImageTarget name="M_laberinto" size="1.000000 1.130879" />
+    <ImageTarget name="uvas" size="1.000000 0.755932" />
+    <ImageTarget name="oso" size="1.000000 0.732203" />
+    <ImageTarget name="Marcador_isla" size="1.000000 0.724919" />
+    <ImageTarget name="Marcador_Avion" size="1.000000 0.864621" />
+    <ImageTarget name="elefante" size="1.000000 0.964419" />
+    <ImageTarget name="ninos_aprendiendo" size="1.000000 0.408130" />
+    <ImageTarget name="Macarcador_A" size="100.000000 74.193550" />
+    <ImageTarget name="Marcador_U" size="100.000000 74.820145" />
+    <ImageTarget name="Marcador_O" size="100.000000 73.636360" />
+    <ImageTarget name="Marcador_I" size="100.000000 74.657532" />
+    <ImageTarget name="Marcador_E" size="100.000000 74.701668" />
+  </Tracking>
+</QCARConfig>

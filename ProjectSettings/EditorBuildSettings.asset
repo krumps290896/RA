@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Vocales/MenuPrincipal.unity
+    guid: ab0174de8cfc4454ea45fab34b32c6b3
+  - enabled: 1
+    path: Assets/Vocales/EscenaA.unity
+    guid: e05fa1cbecb836d45aa07cb84bb5781a
+  - enabled: 1
+    path: Assets/Vocales/EscenaE.unity
+    guid: 33b3f37e4e85b5845a117bcfcd4ae179
+  - enabled: 1
+    path: Assets/Vocales/EscenaI.unity
+    guid: e01938b4b4ffc2849b60ab09e1b484f6
+  - enabled: 1
+    path: Assets/Vocales/EscenaO.unity
+    guid: b10ec75ea25b19d45b19371ca3546d8b
+  - enabled: 1
+    path: Assets/Vocales/EscenaU.unity
+    guid: c937fa401fef70e4bafbb0bbd661d2cc
+  - enabled: 1
+    path: Assets/Letra_Aa.unity
+    guid: 33c6b31e8aed0434999731355a5adc9c
+  - enabled: 1
+    path: Assets/Letra_a.unity
+    guid: 663996fd07327c84ab6f0ac686ac1d4c
+  - enabled: 1
+    path: Assets/Letra_Ee.unity
+    guid: 029e0234d9b468848bd817005eae60c5
+  - enabled: 1
+    path: Assets/Letra_eee.unity
+    guid: f6c8ff8968e855c49904d97bf8787a6f
+  - enabled: 1
+    path: Assets/Letra_Ii.unity
+    guid: 61c579a4155f809459af0fd92d19690c
+  - enabled: 1
+    path: Assets/Letra_iii.unity
+    guid: f95a0ea211cfee14db386813cbca76ec
+  - enabled: 1
+    path: Assets/Letra_Oo.unity
+    guid: ff0c5836f868aca4aaa86dc2c1ac18ed
+  - enabled: 1
+    path: Assets/Letra_Uu.unity
+    guid: 7bc60543364b6f943a7317b1101e6c0c
+  - enabled: 1
+    path: Assets/arana1.unity
+    guid: 639e82b5867be8945959794c49ba7298
+  - enabled: 1
+    path: Assets/avion2.unity
+    guid: 01480f5e06f286a4b920233b9871441a
+  - enabled: 1
+    path: Assets/elefante.unity
+    guid: 5568c7c0f5150da4c94c9417323fff27
+  - enabled: 1
+    path: Assets/Erizo1.unity
+    guid: 5331e92a7a0c4b64a8c85457614be271
+  - enabled: 1
+    path: Assets/Iglesia.unity
+    guid: ba73df89435a61c4db444da0f9ce718e
+  - enabled: 1
+    path: Assets/Isla.unity
+    guid: 6c29728e877cfe649911df1142e7d6a1
+  - enabled: 1
+    path: Assets/Ogro.unity
+    guid: 4c7f1880301dd5a4398ed800ece0d84a
+  - enabled: 1
+    path: Assets/Oso.unity
+    guid: db8bf0a9c01c4c84cb74db89f2b24c4a
+  - enabled: 1
+    path: Assets/Universo.unity
+    guid: 2b68915b3d7bb604bb540ee7f767f6b3
+  - enabled: 1
+    path: Assets/Uva.unity
+    guid: add618dcac4526945b71b6b56eff7035
+  - enabled: 1
+    path: Assets/EncontrarLetras.unity
+    guid: a1efd9cbc2e9bd247a2bcf7fc30ae188
+  - enabled: 1
+    path: Assets/laberinto2.unity
+    guid: ac90e81af5902ea4492ecca2546a219c

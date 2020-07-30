@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 5e46bea68ca282f4b9fcbac26bee8a39
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Light
+    100004: //RootNode
+    100006: Texto
+    100008: Texto.018
+    100010: Texto.019
+    100012: Texto.020
+    100014: Texto.021
+    100016: Texto.022
+    100018: Texto.023
+    100020: Texto.024
+    100022: Texto.025
+    100024: Texto.026
+    100026: Texto.027
+    100028: Texto.028
+    100030: Texto.029
+    100032: Texto.030
+    100034: Texto.031
+    100036: Texto.032
+    400000: Camera
+    400002: Light
+    400004: Texto
+    400006: //RootNode
+    400008: Texto.018
+    400010: Texto.019
+    400012: Texto.020
+    400014: Texto.021
+    400016: Texto.022
+    400018: Texto.023
+    400020: Texto.024
+    400022: Texto.025
+    400024: Texto.026
+    400026: Texto.027
+    400028: Texto.028
+    400030: Texto.029
+    400032: Texto.030
+    400034: Texto.031
+    400036: Texto.032
+    2000000: Camera
+    2100000: No Name
+    2100002: Material
+    2300000: Texto
+    2300002: Texto.018
+    2300004: Texto.019
+    2300006: Texto.020
+    2300008: Texto.021
+    2300010: Texto.022
+    2300012: Texto.023
+    2300014: Texto.024
+    2300016: Texto.025
+    2300018: Texto.026
+    2300020: Texto.027
+    2300022: Texto.028
+    2300024: Texto.029
+    2300026: Texto.030
+    2300028: Texto.031
+    2300030: Texto.032
+    3300000: Texto
+    3300002: Texto.018
+    3300004: Texto.019
+    3300006: Texto.020
+    3300008: Texto.021
+    3300010: Texto.022
+    3300012: Texto.023
+    3300014: Texto.024
+    3300016: Texto.025
+    3300018: Texto.026
+    3300020: Texto.027
+    3300022: Texto.028
+    3300024: Texto.029
+    3300026: Texto.030
+    3300028: Texto.031
+    3300030: Texto.032
+    4300000: Texto
+    4300002: Texto.018
+    4300004: Texto.019
+    4300006: Texto.020
+    4300008: Texto.021
+    4300010: Texto.022
+    4300012: Texto.023
+    4300014: Texto.024
+    4300016: Texto.025
+    4300018: Texto.026
+    4300020: Texto.027
+    4300022: Texto.028
+    4300024: Texto.029
+    4300026: Texto.030
+    4300028: Texto.031
+    4300030: Texto.032
+    10800000: Light
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

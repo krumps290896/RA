@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: 5d348ff2b2c9f4e4ca006e81ab5cd388
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cilindro
+    100002: Cilindro.001
+    100004: Cilindro.002
+    100006: Cilindro.003
+    100008: Cilindro.004
+    100010: Cilindro.005
+    100012: Cilindro.006
+    100014: Cilindro.007
+    100016: Cilindro.008
+    100018: Cilindro.009
+    100020: Cilindro.010
+    100022: Cilindro.011
+    100024: Cilindro.012
+    100026: Cilindro.013
+    100028: Cilindro.014
+    100030: Cilindro.015
+    100032: Cilindro.016
+    100034: Cono
+    100036: Cono.001
+    100038: Cono.002
+    100040: Cono.003
+    100042: Cono.004
+    100044: Cono.005
+    100046: Cono.006
+    100048: Cono.007
+    100050: Cono.008
+    100052: Cono.009
+    100054: Cono.010
+    100056: Cono.011
+    100058: Cono.012
+    100060: Cono.013
+    100062: Cono.014
+    100064: Cono.015
+    100066: Cono.016
+    100068: Cono.017
+    100070: Cono.018
+    100072: Cono.019
+    100074: Cono.020
+    100076: Cono.021
+    100078: Cono.022
+    100080: Cono.023
+    100082: Cono.024
+    100084: Cono.025
+    100086: Cono.026
+    100088: Cono.027
+    100090: Cono.028
+    100092: Cono.029
+    100094: Cubo
+    100096: Cubo.001
+    100098: Curva NURBS
+    100100: Curva NURBS.001
+    100102: Curva NURBS.002
+    100104: "C\xEDrculo B\xE9zier"
+    100106: "C\xEDrculo B\xE9zier.001"
+    100108: "C\xEDrculo B\xE9zier.002"
+    100110: "C\xEDrculo B\xE9zier.003"
+    100112: "C\xEDrculo B\xE9zier.004"
+    100114: "C\xEDrculo B\xE9zier.005"
+    100116: "C\xEDrculo B\xE9zier.006"
+    100118: "C\xEDrculo B\xE9zier.007"
+    100120: "C\xEDrculo B\xE9zier.008"
+    100122: "C\xEDrculo B\xE9zier.009"
+    100124: "C\xEDrculo B\xE9zier.010"
+    100126: "C\xEDrculo B\xE9zier.011"
+    100128: "C\xEDrculo B\xE9zier.012"
+    100130: "C\xEDrculo B\xE9zier.013"
+    100132: "C\xEDrculo B\xE9zier.014"
+    100134: "C\xEDrculo B\xE9zier.015"
+    100136: "C\xEDrculo B\xE9zier.016"
+    100138: "C\xEDrculo B\xE9zier.017"
+    100140: "C\xEDrculo B\xE9zier.018"
+    100142: "C\xEDrculo B\xE9zier.019"
+    100144: "C\xEDrculo B\xE9zier.020"
+    100146: "C\xEDrculo B\xE9zier.021"
+    100148: "C\xEDrculo B\xE9zier.022"
+    100150: "C\xEDrculo B\xE9zier.023"
+    100152: "C\xEDrculo B\xE9zier.024"
+    100154: //RootNode
+    100156: Texto
+    100158: Texto.001
+    100160: Texto.002
+    100162: Texto.003
+    100164: Texto.004
+    100166: Texto.005
+    100168: Texto.006
+    100170: Texto.007
+    100172: Texto.008
+    100174: Texto.009
+    400000: Cilindro
+    400002: Cilindro.001
+    400004: Cilindro.002
+    400006: Cilindro.003
+    400008: Cilindro.004
+    400010: Cilindro.005
+    400012: Cilindro.006
+    400014: Cilindro.007
+    400016: Cilindro.008
+    400018: Cilindro.009
+    400020: Cilindro.010
+    400022: Cilindro.011
+    400024: Cilindro.012
+    400026: Cilindro.013
+    400028: Cilindro.014
+    400030: Cilindro.015
+    400032: Cilindro.016
+    400034: Cono
+    400036: Cono.001
+    400038: Cono.002
+    400040: Cono.003
+    400042: Cono.004
+    400044: Cono.005
+    400046: Cono.006
+    400048: Cono.007
+    400050: Cono.008
+    400052: Cono.009
+    400054: Cono.010
+    400056: Cono.011
+    400058: Cono.012
+    400060: Cono.013
+    400062: Cono.014
+    400064: Cono.015
+    400066: Cono.016
+    400068: Cono.017
+    400070: Cono.018
+    400072: Cono.019
+    400074: Cono.020
+    400076: Cono.021
+    400078: Cono.022
+    400080: Cono.023
+    400082: Cono.024
+    400084: Cono.025
+    400086: Cono.026
+    400088: Cono.027
+    400090: Cono.028
+    400092: Cono.029
+    400094: Cubo
+    400096: Cubo.001
+    400098: Curva NURBS
+    400100: Curva NURBS.001
+    400102: Curva NURBS.002
+    400104: "C\xEDrculo B\xE9zier"
+    400106: "C\xEDrculo B\xE9zier.001"
+    400108: "C\xEDrculo B\xE9zier.002"
+    400110: "C\xEDrculo B\xE9zier.003"
+    400112: "C\xEDrculo B\xE9zier.004"
+    400114: "C\xEDrculo B\xE9zier.005"
+    400116: "C\xEDrculo B\xE9zier.006"
+    400118: "C\xEDrculo B\xE9zier.007"
+    400120: "C\xEDrculo B\xE9zier.008"
+    400122: "C\xEDrculo B\xE9zier.009"
+    400124: "C\xEDrculo B\xE9zier.010"
+    400126: "C\xEDrculo B\xE9zier.011"
+    400128: "C\xEDrculo B\xE9zier.012"
+    400130: "C\xEDrculo B\xE9zier.013"
+    400132: "C\xEDrculo B\xE9zier.014"
+    400134: "C\xEDrculo B\xE9zier.015"
+    400136: "C\xEDrculo B\xE9zier.016"
+    400138: "C\xEDrculo B\xE9zier.017"
+    400140: "C\xEDrculo B\xE9zier.018"
+    400142: "C\xEDrculo B\xE9zier.019"
+    400144: "C\xEDrculo B\xE9zier.020"
+    400146: "C\xEDrculo B\xE9zier.021"
+    400148: "C\xEDrculo B\xE9zier.022"
+    400150: "C\xEDrculo B\xE9zier.023"
+    400152: "C\xEDrculo B\xE9zier.024"
+    400154: //RootNode
+    400156: Texto
+    400158: Texto.001
+    400160: Texto.002
+    400162: Texto.003
+    400164: Texto.004
+    400166: Texto.005
+    400168: Texto.006
+    400170: Texto.007
+    400172: Texto.008
+    400174: Texto.009
+    2100000: No Name
+    2300000: Cilindro
+    2300002: Cilindro.001
+    2300004: Cilindro.002
+    2300006: Cilindro.003
+    2300008: Cilindro.004
+    2300010: Cilindro.005
+    2300012: Cilindro.006
+    2300014: Cilindro.007
+    2300016: Cilindro.008
+    2300018: Cilindro.009
+    2300020: Cilindro.010
+    2300022: Cilindro.011
+    2300024: Cilindro.012
+    2300026: Cilindro.013
+    2300028: Cilindro.014
+    2300030: Cilindro.015
+    2300032: Cilindro.016
+    2300034: Cono
+    2300036: Cono.001
+    2300038: Cono.002
+    2300040: Cono.003
+    2300042: Cono.004
+    2300044: Cono.005
+    2300046: Cono.006
+    2300048: Cono.007
+    2300050: Cono.008
+    2300052: Cono.009
+    2300054: Cono.010
+    2300056: Cono.011
+    2300058: Cono.012
+    2300060: Cono.013
+    2300062: Cono.014
+    2300064: Cono.015
+    2300066: Cono.016
+    2300068: Cono.017
+    2300070: Cono.018
+    2300072: Cono.019
+    2300074: Cono.020
+    2300076: Cono.021
+    2300078: Cono.022
+    2300080: Cono.023
+    2300082: Cono.024
+    2300084: Cono.025
+    2300086: Cono.026
+    2300088: Cono.027
+    2300090: Cono.028
+    2300092: Cono.029
+    2300094: Cubo
+    2300096: Cubo.001
+    2300098: Curva NURBS
+    2300100: Curva NURBS.001
+    2300102: Curva NURBS.002
+    2300104: "C\xEDrculo B\xE9zier"
+    2300106: "C\xEDrculo B\xE9zier.001"
+    2300108: "C\xEDrculo B\xE9zier.002"
+    2300110: "C\xEDrculo B\xE9zier.003"
+    2300112: "C\xEDrculo B\xE9zier.004"
+    2300114: "C\xEDrculo B\xE9zier.005"
+    2300116: "C\xEDrculo B\xE9zier.006"
+    2300118: "C\xEDrculo B\xE9zier.007"
+    2300120: "C\xEDrculo B\xE9zier.008"
+    2300122: "C\xEDrculo B\xE9zier.009"
+    2300124: "C\xEDrculo B\xE9zier.010"
+    2300126: "C\xEDrculo B\xE9zier.011"
+    2300128: "C\xEDrculo B\xE9zier.012"
+    2300130: "C\xEDrculo B\xE9zier.013"
+    2300132: "C\xEDrculo B\xE9zier.014"
+    2300134: "C\xEDrculo B\xE9zier.015"
+    2300136: "C\xEDrculo B\xE9zier.016"
+    2300138: "C\xEDrculo B\xE9zier.017"
+    2300140: "C\xEDrculo B\xE9zier.018"
+    2300142: "C\xEDrculo B\xE9zier.019"
+    2300144: "C\xEDrculo B\xE9zier.020"
+    2300146: "C\xEDrculo B\xE9zier.021"
+    2300148: "C\xEDrculo B\xE9zier.022"
+    2300150: "C\xEDrculo B\xE9zier.023"
+    2300152: "C\xEDrculo B\xE9zier.024"
+    2300154: Texto
+    2300156: Texto.001
+    2300158: Texto.002
+    2300160: Texto.003
+    2300162: Texto.004
+    2300164: Texto.005
+    2300166: Texto.006
+    2300168: Texto.007
+    2300170: Texto.008
+    2300172: Texto.009
+    3300000: Cilindro
+    3300002: Cilindro.001
+    3300004: Cilindro.002
+    3300006: Cilindro.003
+    3300008: Cilindro.004
+    3300010: Cilindro.005
+    3300012: Cilindro.006
+    3300014: Cilindro.007
+    3300016: Cilindro.008
+    3300018: Cilindro.009
+    3300020: Cilindro.010
+    3300022: Cilindro.011
+    3300024: Cilindro.012
+    3300026: Cilindro.013
+    3300028: Cilindro.014
+    3300030: Cilindro.015
+    3300032: Cilindro.016
+    3300034: Cono
+    3300036: Cono.001
+    3300038: Cono.002
+    3300040: Cono.003
+    3300042: Cono.004
+    3300044: Cono.005
+    3300046: Cono.006
+    3300048: Cono.007
+    3300050: Cono.008
+    3300052: Cono.009
+    3300054: Cono.010
+    3300056: Cono.011
+    3300058: Cono.012
+    3300060: Cono.013
+    3300062: Cono.014
+    3300064: Cono.015
+    3300066: Cono.016
+    3300068: Cono.017
+    3300070: Cono.018
+    3300072: Cono.019
+    3300074: Cono.020
+    3300076: Cono.021
+    3300078: Cono.022
+    3300080: Cono.023
+    3300082: Cono.024
+    3300084: Cono.025
+    3300086: Cono.026
+    3300088: Cono.027
+    3300090: Cono.028
+    3300092: Cono.029
+    3300094: Cubo
+    3300096: Cubo.001
+    3300098: Curva NURBS
+    3300100: Curva NURBS.001
+    3300102: Curva NURBS.002
+    3300104: "C\xEDrculo B\xE9zier"
+    3300106: "C\xEDrculo B\xE9zier.001"
+    3300108: "C\xEDrculo B\xE9zier.002"
+    3300110: "C\xEDrculo B\xE9zier.003"
+    3300112: "C\xEDrculo B\xE9zier.004"
+    3300114: "C\xEDrculo B\xE9zier.005"
+    3300116: "C\xEDrculo B\xE9zier.006"
+    3300118: "C\xEDrculo B\xE9zier.007"
+    3300120: "C\xEDrculo B\xE9zier.008"
+    3300122: "C\xEDrculo B\xE9zier.009"
+    3300124: "C\xEDrculo B\xE9zier.010"
+    3300126: "C\xEDrculo B\xE9zier.011"
+    3300128: "C\xEDrculo B\xE9zier.012"
+    3300130: "C\xEDrculo B\xE9zier.013"
+    3300132: "C\xEDrculo B\xE9zier.014"
+    3300134: "C\xEDrculo B\xE9zier.015"
+    3300136: "C\xEDrculo B\xE9zier.016"
+    3300138: "C\xEDrculo B\xE9zier.017"
+    3300140: "C\xEDrculo B\xE9zier.018"
+    3300142: "C\xEDrculo B\xE9zier.019"
+    3300144: "C\xEDrculo B\xE9zier.020"
+    3300146: "C\xEDrculo B\xE9zier.021"
+    3300148: "C\xEDrculo B\xE9zier.022"
+    3300150: "C\xEDrculo B\xE9zier.023"
+    3300152: "C\xEDrculo B\xE9zier.024"
+    3300154: Texto
+    3300156: Texto.001
+    3300158: Texto.002
+    3300160: Texto.003
+    3300162: Texto.004
+    3300164: Texto.005
+    3300166: Texto.006
+    3300168: Texto.007
+    3300170: Texto.008
+    3300172: Texto.009
+    4300000: Texto
+    4300002: Cilindro
+    4300004: Cono
+    4300006: Cilindro.001
+    4300008: Cono.001
+    4300010: Cilindro.002
+    4300012: Cono.002
+    4300014: Cilindro.005
+    4300016: Cilindro.004
+    4300018: Cilindro.003
+    4300020: Cono.005
+    4300022: Cono.004
+    4300024: Cono.003
+    4300026: Texto.002
+    4300028: "C\xEDrculo B\xE9zier"
+    4300030: Cubo
+    4300032: "C\xEDrculo B\xE9zier.001"
+    4300034: "C\xEDrculo B\xE9zier.002"
+    4300036: "C\xEDrculo B\xE9zier.003"
+    4300038: Cono.006
+    4300040: Cilindro.006
+    4300042: Cono.007
+    4300044: Cilindro.007
+    4300046: Cono.009
+    4300048: Cono.008
+    4300050: Cubo.001
+    4300052: "C\xEDrculo B\xE9zier.016"
+    4300054: "C\xEDrculo B\xE9zier.015"
+    4300056: "C\xEDrculo B\xE9zier.014"
+    4300058: "C\xEDrculo B\xE9zier.013"
+    4300060: "C\xEDrculo B\xE9zier.012"
+    4300062: "C\xEDrculo B\xE9zier.011"
+    4300064: "C\xEDrculo B\xE9zier.010"
+    4300066: Texto.001
+    4300068: Texto.003
+    4300070: Curva NURBS
+    4300072: Curva NURBS.001
+    4300074: Curva NURBS.002
+    4300076: Cilindro.008
+    4300078: Cono.010
+    4300080: Cono.011
+    4300082: Cono.012
+    4300084: Cilindro.009
+    4300086: Cono.013
+    4300088: Cilindro.010
+    4300090: Cono.014
+    4300092: Cilindro.011
+    4300094: Cono.015
+    4300096: Cilindro.012
+    4300098: Cono.016
+    4300100: Texto.004
+    4300102: Texto.005
+    4300104: Cono.017
+    4300106: Cilindro.013
+    4300108: Cono.018
+    4300110: Cilindro.014
+    4300112: Cono.019
+    4300114: Cilindro.015
+    4300116: Cono.020
+    4300118: Cilindro.016
+    4300120: Cono.021
+    4300122: Cono.022
+    4300124: "C\xEDrculo B\xE9zier.017"
+    4300126: "C\xEDrculo B\xE9zier.009"
+    4300128: "C\xEDrculo B\xE9zier.008"
+    4300130: "C\xEDrculo B\xE9zier.007"
+    4300132: "C\xEDrculo B\xE9zier.006"
+    4300134: "C\xEDrculo B\xE9zier.005"
+    4300136: "C\xEDrculo B\xE9zier.004"
+    4300138: Cono.023
+    4300140: "C\xEDrculo B\xE9zier.024"
+    4300142: "C\xEDrculo B\xE9zier.023"
+    4300144: "C\xEDrculo B\xE9zier.022"
+    4300146: "C\xEDrculo B\xE9zier.021"
+    4300148: "C\xEDrculo B\xE9zier.020"
+    4300150: "C\xEDrculo B\xE9zier.019"
+    4300152: "C\xEDrculo B\xE9zier.018"
+    4300154: Texto.006
+    4300156: Texto.007
+    4300158: Texto.008
+    4300160: Cono.024
+    4300162: Cono.025
+    4300164: Cono.026
+    4300166: Cono.029
+    4300168: Cono.028
+    4300170: Cono.027
+    4300172: Texto.009
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
